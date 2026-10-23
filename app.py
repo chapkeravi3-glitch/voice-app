@@ -1,5 +1,6 @@
 import streamlit as st
-from gTTS import gTTS
+from gtts import gTTS
+
 
 st.set_page_config(page_title="Voice Generator", page_icon="🎙️")
 st.title("🎙️ मेल और फीमेल वॉइस जनरेटर")
